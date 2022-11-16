@@ -1,0 +1,8 @@
+[user]
+	name = your name
+	email = your emain
+[alias]
+	history = log
+	ci = commit
+	br = branch
+	st = status
